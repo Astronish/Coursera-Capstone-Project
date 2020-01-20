@@ -8,9 +8,9 @@
 
    2.  **Business Requirement Description:**
         To analyze and select the best locations in New Delhi, India to open a new Indian restaurant. Picking up the best location                 includes three important factors:
-        a. Population Base
-        b. Accessibility
-        c. Parking Facility
+        * Population Base
+        * Accessibility
+        * Parking Facility
        
         This project is timely as the city is currently suffering from the oversupplying of Indian restaurants. 
 
